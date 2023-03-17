@@ -15,8 +15,8 @@ h1 {
   color: #F76F8E;
 }
 
-.class2 fw-bolder {
-   font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+.class2 {
+  font-family: "Times New Roman", Times, serif;
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
