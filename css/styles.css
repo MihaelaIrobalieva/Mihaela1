@@ -11,7 +11,12 @@ body {
 	background-color: #f8f8fc;
 }
 
-
+h1 {
+  color: #F76F8E;
+}
+h1 {
+  font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
