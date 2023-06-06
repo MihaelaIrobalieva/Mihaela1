@@ -5,6 +5,11 @@
 
 /* Styles for the body */
 
+@font-face {
+	font-family:"titi";
+	src:url("../TitilliumWeb.ttf");
+}
+
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
@@ -16,7 +21,7 @@ h1 {
 }
 
 .class2 {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "titi", Times;
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
